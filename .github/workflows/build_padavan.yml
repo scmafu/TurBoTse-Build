@@ -131,7 +131,7 @@ jobs:
           fetch-depth: 1
       - uses: actions/checkout@main
         with:
-          repository: scmafu/TuBoTse
+          repository: scmafu/TurBoTse
           ref: main
           fetch-depth: 1
 
